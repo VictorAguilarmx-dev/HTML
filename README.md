@@ -11,3 +11,4 @@ En caso de querer complementar estas notas con ejemplos, contenido más detallad
 - [Scripts en HTML](./Notas_md/05_scripts.md)
 - [Imágenes, vectores y figuras](./Notas_md/06_imagenes_vectores_figuras.md)
 - [Listas](./Notas_md/07_listas.md)
+- [Tablas](./Notas_md/08_tablas.md)
