@@ -8,3 +8,4 @@ En caso de querer complementar estas notas con ejemplos, contenido más detallad
 - [Sintaxis](./Notas_md/02_sintaxis.md)
 - [Etiquetas HTML](./Notas_md/03_etiquetas_html.md)
 - [Estilos CSS en HTML](./Notas_md/04_estilos_css_html.md)
+- [Scripts en HTML](./Notas_md/05_scripts.md)
