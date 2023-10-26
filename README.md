@@ -9,3 +9,4 @@ En caso de querer complementar estas notas con ejemplos, contenido más detallad
 - [Etiquetas HTML](./Notas_md/03_etiquetas_html.md)
 - [Estilos CSS en HTML](./Notas_md/04_estilos_css_html.md)
 - [Scripts en HTML](./Notas_md/05_scripts.md)
+- [Imágenes, vectores y figuras](./Notas_md/06_imagenes_vectores_figuras.md)
