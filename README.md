@@ -10,3 +10,4 @@ En caso de querer complementar estas notas con ejemplos, contenido más detallad
 - [Estilos CSS en HTML](./Notas_md/04_estilos_css_html.md)
 - [Scripts en HTML](./Notas_md/05_scripts.md)
 - [Imágenes, vectores y figuras](./Notas_md/06_imagenes_vectores_figuras.md)
+- [Listas](./Notas_md/07_listas.md)
