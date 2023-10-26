@@ -6,3 +6,4 @@ En caso de querer complementar estas notas con ejemplos, contenido más detallad
 ## Índice.
 - [Introducción](./Notas_md/01_introduccion.md)
 - [Sintaxis](./Notas_md/02_sintaxis.md)
+- [Etiquetas HTML](./Notas_md/03_etiquetas_html.md)
