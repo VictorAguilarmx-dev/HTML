@@ -18,4 +18,5 @@ En caso de querer complementar estas notas con ejemplos, contenido más detallad
 - [Iframes](./notas_md/12_iframes.md)
 - [Formularios](./notas_md/13_formularios.md)
 - [Data attributes](./notas/14_data_attributes.md)
-- [Meta etiquetas para SEO](/notas/15_meta_etiquetas.md)
+- [Meta etiquetas para SEO](./notas/15_meta_etiquetas.md)
+- [Accesibilidad web](./notas/16_accesibilidad_web.md)
