@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Formulario de contacto</title>
+	</head>
+	<body>
+		<form
+			action="https://formsubmit.co/victor.aguilar.dev97@gmail.com"
+			method="post">
+			<input
+				type="text"
+				name="nombre"
+				placeholder="Escribe tu nombre"
+				pattern="^[A-Za-ZÑNÁáÉéÍíÓóÚúÜü\s]+$"
+				title="Nombre sólo acepta letras y espacios en blanco"
+				required />
+			<br />
+			<input
+				type="email"
+				name="correo"
+				placeholder="Escribe tu correo"
+				pattern="^(\w+[/./-]?){1,}@[a-z]+[/.]\w{2,}$"
+				title="Formato de correo inválido"
+				required />
+			<br />
+			<textarea name="comentarios" cols="30" rows="10" required></textarea>
+			<br />
+			<input type="submit" />
+		</form>
+	</body>
+</html>
